@@ -1,0 +1,13 @@
+h3 {
+  font-size: 50px;
+  text-decoration: underline;  
+}
+
+.chores {
+    color: turquoise;
+}
+
+#ital {
+    font-style: italic;
+    font-size: 25px;
+}
