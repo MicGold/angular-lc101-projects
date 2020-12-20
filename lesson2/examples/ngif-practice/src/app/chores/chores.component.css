@@ -16,3 +16,11 @@ img {
     display: block;
     margin: auto;
 }
+
+#warning {
+    color: rgb(160, 16, 16)
+}
+
+.treat {
+    color: rgb(67, 224, 151);
+}
